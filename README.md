@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/mehdi-raza99/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/mehdi-raza99/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
