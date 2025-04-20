@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/mehdi-raza99/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0607-sales-person](https://github.com/mehdi-raza99/LeetCode/tree/master/0607-sales-person) |
 | [0627-swap-salary](https://github.com/mehdi-raza99/LeetCode/tree/master/0627-swap-salary) |
+| [1541-top-travellers](https://github.com/mehdi-raza99/LeetCode/tree/master/1541-top-travellers) |
 ## Hash Table
 |  |
 | ------- |
