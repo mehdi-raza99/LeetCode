@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/mehdi-raza99/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/mehdi-raza99/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-more-than-5-students](https://github.com/mehdi-raza99/LeetCode/tree/master/0596-classes-more-than-5-students) |
+| [0607-sales-person](https://github.com/mehdi-raza99/LeetCode/tree/master/0607-sales-person) |
 | [0627-swap-salary](https://github.com/mehdi-raza99/LeetCode/tree/master/0627-swap-salary) |
 ## Hash Table
 |  |
