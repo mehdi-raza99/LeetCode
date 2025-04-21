@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/mehdi-raza99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mehdi-raza99/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mehdi-raza99/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/mehdi-raza99/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
