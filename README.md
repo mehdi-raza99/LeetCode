@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/mehdi-raza99/LeetCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/mehdi-raza99/LeetCode/tree/master/0649-dota2-senate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/mehdi-raza99/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0649-dota2-senate](https://github.com/mehdi-raza99/LeetCode/tree/master/0649-dota2-senate) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mehdi-raza99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mehdi-raza99/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Database
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/mehdi-raza99/LeetCode/tree/master/0735-asteroid-collision) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/mehdi-raza99/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
