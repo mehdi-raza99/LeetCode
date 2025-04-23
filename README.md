@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/mehdi-raza99/LeetCode/tree/master/0649-dota2-senate) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/mehdi-raza99/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
