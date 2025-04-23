@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mehdi-raza99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mehdi-raza99/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/mehdi-raza99/LeetCode/tree/master/0735-asteroid-collision) |
+| [1036-rotting-oranges](https://github.com/mehdi-raza99/LeetCode/tree/master/1036-rotting-oranges) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mehdi-raza99/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/mehdi-raza99/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/mehdi-raza99/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/mehdi-raza99/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/mehdi-raza99/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/mehdi-raza99/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/mehdi-raza99/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Union Find
 |  |
