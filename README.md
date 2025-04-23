@@ -84,4 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/mehdi-raza99/LeetCode/tree/master/0328-odd-even-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mehdi-raza99/LeetCode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mehdi-raza99/LeetCode/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mehdi-raza99/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mehdi-raza99/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
