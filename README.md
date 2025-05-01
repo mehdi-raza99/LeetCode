@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/mehdi-raza99/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0605-can-place-flowers](https://github.com/mehdi-raza99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mehdi-raza99/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/mehdi-raza99/LeetCode/tree/master/0735-asteroid-collision) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/mehdi-raza99/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/mehdi-raza99/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mehdi-raza99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/mehdi-raza99/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/mehdi-raza99/LeetCode/tree/master/0871-keys-and-rooms) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/mehdi-raza99/LeetCode/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
