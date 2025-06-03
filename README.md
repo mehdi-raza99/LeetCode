@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mehdi-raza99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mehdi-raza99/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/mehdi-raza99/LeetCode/tree/master/0735-asteroid-collision) |
+| [0907-koko-eating-bananas](https://github.com/mehdi-raza99/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/mehdi-raza99/LeetCode/tree/master/1036-rotting-oranges) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mehdi-raza99/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/mehdi-raza99/LeetCode/tree/master/0413-arithmetic-slices) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/mehdi-raza99/LeetCode/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
