@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0413-arithmetic-slices](https://github.com/mehdi-raza99/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0605-can-place-flowers](https://github.com/mehdi-raza99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mehdi-raza99/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mehdi-raza99/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mehdi-raza99/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
