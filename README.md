@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mehdi-raza99/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/mehdi-raza99/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/mehdi-raza99/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mehdi-raza99/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mehdi-raza99/LeetCode/tree/master/0125-valid-palindrome) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/mehdi-raza99/LeetCode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Counting
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/mehdi-raza99/LeetCode/tree/master/0883-car-fleet) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
