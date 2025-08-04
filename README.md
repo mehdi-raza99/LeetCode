@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mehdi-raza99/LeetCode/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mehdi-raza99/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/mehdi-raza99/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0415-add-strings) |
 | [0649-dota2-senate](https://github.com/mehdi-raza99/LeetCode/tree/master/0649-dota2-senate) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mehdi-raza99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mehdi-raza99/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mehdi-raza99/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/mehdi-raza99/LeetCode/tree/master/0383-ransom-note) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mehdi-raza99/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mehdi-raza99/LeetCode/tree/master/0383-ransom-note) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mehdi-raza99/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
 |  |
