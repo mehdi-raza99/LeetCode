@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mehdi-raza99/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mehdi-raza99/LeetCode/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/mehdi-raza99/LeetCode/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mehdi-raza99/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0415-add-strings) |
 | [0649-dota2-senate](https://github.com/mehdi-raza99/LeetCode/tree/master/0649-dota2-senate) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mehdi-raza99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -185,9 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0043-multiply-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mehdi-raza99/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0415-add-strings) |
 ## Memoization
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mehdi-raza99/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
