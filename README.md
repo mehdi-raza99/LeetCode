@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mehdi-raza99/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mehdi-raza99/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/mehdi-raza99/LeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mehdi-raza99/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0415-add-strings) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mehdi-raza99/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/mehdi-raza99/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/mehdi-raza99/LeetCode/tree/master/0500-keyboard-row) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mehdi-raza99/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/mehdi-raza99/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
 | [0883-car-fleet](https://github.com/mehdi-raza99/LeetCode/tree/master/0883-car-fleet) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mehdi-raza99/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -198,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mehdi-raza99/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
