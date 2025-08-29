@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mehdi-raza99/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/mehdi-raza99/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/mehdi-raza99/LeetCode/tree/master/0049-group-anagrams) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/mehdi-raza99/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mehdi-raza99/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mehdi-raza99/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
