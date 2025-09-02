@@ -1,9 +1,11 @@
 class Solution {
 public:
+    static bool comp(const std::vector<int>& a, const std::vector<int>& b) {
+    return a[0] < b[0];
+}
+
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        std::sort(intervals.begin(), intervals.end(), [](const std::vector<int>& a, const std::vector<int>& b) {
-        return a[0] < b[0]; // Compare the first elements
-        });
+        std::sort(intervals.begin(), intervals.end(), comp);
         int length=intervals.size();
         vector<vector<int>> result;
         int start=intervals[0][0], end=intervals[0][1],i=1;
