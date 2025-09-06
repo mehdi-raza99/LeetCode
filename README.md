@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/mehdi-raza99/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/mehdi-raza99/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mehdi-raza99/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mehdi-raza99/LeetCode/tree/master/0075-sort-colors) |
@@ -218,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/mehdi-raza99/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
