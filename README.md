@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mehdi-raza99/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mehdi-raza99/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mehdi-raza99/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mehdi-raza99/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mehdi-raza99/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mehdi-raza99/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mehdi-raza99/LeetCode/tree/master/0134-gas-station) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mehdi-raza99/LeetCode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mehdi-raza99/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Backtracking
@@ -220,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mehdi-raza99/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/mehdi-raza99/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
