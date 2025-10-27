@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mehdi-raza99/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mehdi-raza99/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mehdi-raza99/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mehdi-raza99/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mehdi-raza99/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mehdi-raza99/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mehdi-raza99/LeetCode/tree/master/0134-gas-station) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mehdi-raza99/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/mehdi-raza99/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/mehdi-raza99/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/mehdi-raza99/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mehdi-raza99/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/mehdi-raza99/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mehdi-raza99/LeetCode/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/mehdi-raza99/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/mehdi-raza99/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mehdi-raza99/LeetCode/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/mehdi-raza99/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/mehdi-raza99/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mehdi-raza99/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mehdi-raza99/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/mehdi-raza99/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mehdi-raza99/LeetCode/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
