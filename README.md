@@ -158,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mehdi-raza99/LeetCode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mehdi-raza99/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mehdi-raza99/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/mehdi-raza99/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mehdi-raza99/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mehdi-raza99/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mehdi-raza99/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/mehdi-raza99/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/mehdi-raza99/LeetCode/tree/master/1036-rotting-oranges) |
@@ -200,10 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mehdi-raza99/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mehdi-raza99/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mehdi-raza99/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mehdi-raza99/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Monotonic Stack
 |  |
