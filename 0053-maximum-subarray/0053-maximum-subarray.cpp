@@ -1,12 +1,39 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int curr_max=nums[0];  //The maximum sum of a subarray ending at the *current position*.
-        int global_max=nums[0];  //The maximum sum found anywhere in the array so far.
-        for(int i=1; i<nums.size();i++){
-            curr_max=max(nums[i],nums[i]+curr_max);
-            global_max=max(global_max,curr_max);
+        int globalMax=nums[0],currentSum=nums[0],size=nums.size();
+        for(int i=1;i<size;i++){
+            currentSum=max(nums[i],nums[i]+currentSum);
+            globalMax=max(globalMax,currentSum);
         }
-        return global_max;
+        return globalMax;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
