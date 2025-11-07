@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mehdi-raza99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mehdi-raza99/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1873-longest-nice-substring](https://github.com/mehdi-raza99/LeetCode/tree/master/1873-longest-nice-substring) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/mehdi-raza99/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Database
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1873-longest-nice-substring](https://github.com/mehdi-raza99/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/mehdi-raza99/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/mehdi-raza99/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/mehdi-raza99/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/mehdi-raza99/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/mehdi-raza99/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
