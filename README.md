@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/mehdi-raza99/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/mehdi-raza99/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3463-alternating-groups-i](https://github.com/mehdi-raza99/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/mehdi-raza99/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/mehdi-raza99/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mehdi-raza99/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3463-alternating-groups-i](https://github.com/mehdi-raza99/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
 |  |
 | ------- |
