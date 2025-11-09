@@ -1,18 +1,16 @@
 class Solution {
 public:
     int divisorSubstrings(int num, int k) {
-        string number=to_string(num),currentWindow=number.substr(0,k);
-        int currentNumber=stoi(currentWindow),result=0,length=number.length(),index=k-1;
-        if(num % currentNumber == 0) result++;
-        while(index < length-1){
-            currentWindow.erase(0,1);
-            currentWindow+=number[++index];
-            currentNumber=stoi(currentWindow);
-            if(currentNumber != 0 && num % currentNumber == 0){
-                cout<<currentNumber;
+        string s = to_string(num);
+        int n = s.size();
+        int result = 0;
+
+        for (int i = 0; i + k <= n; i++) {
+            int val = stoi(s.substr(i, k));  // get k-length substring
+            if (val != 0 && num % val == 0)
                 result++;
-            } 
         }
+
         return result;
     }
 };
