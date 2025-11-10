@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mehdi-raza99/LeetCode/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/mehdi-raza99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mehdi-raza99/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/mehdi-raza99/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/mehdi-raza99/LeetCode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/mehdi-raza99/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/mehdi-raza99/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mehdi-raza99/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/mehdi-raza99/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mehdi-raza99/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0658-find-k-closest-elements](https://github.com/mehdi-raza99/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mehdi-raza99/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
+| [0658-find-k-closest-elements](https://github.com/mehdi-raza99/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/mehdi-raza99/LeetCode/tree/master/0883-car-fleet) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mehdi-raza99/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/mehdi-raza99/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mehdi-raza99/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/mehdi-raza99/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/mehdi-raza99/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mehdi-raza99/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mehdi-raza99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/mehdi-raza99/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/mehdi-raza99/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/mehdi-raza99/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Recursion
 |  |
@@ -273,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mehdi-raza99/LeetCode/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/mehdi-raza99/LeetCode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
