@@ -1,24 +1,16 @@
 class Solution {
 public:
-    int findDist(int a, int b){
-        return abs(a-b);
-    }
-
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
-        vector<int> result;
-        int size=arr.size();
-        result.push_back(arr[0]);
-        for(int i=1;i<size;i++){
-            if(result.size() == k){
-                if(findDist(result[0],x) > findDist(arr[i],x)){
-                    result.erase(result.begin());
-                    result.push_back(arr[i]);
-                }
-            }
-            else{
-                result.push_back(arr[i]);
-            }
+        int left = 0, right = arr.size() - 1;
+        
+        // Shrink the window until its size is k
+        while (right - left + 1 > k) {
+            if (abs(arr[left] - x) > abs(arr[right] - x))
+                left++;
+            else
+                right--;
         }
-        return result;
+        
+        return vector<int>(arr.begin() + left, arr.begin() + right + 1);
     }
 };
