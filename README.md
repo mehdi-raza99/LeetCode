@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mehdi-raza99/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mehdi-raza99/LeetCode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/mehdi-raza99/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/mehdi-raza99/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mehdi-raza99/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0413-arithmetic-slices](https://github.com/mehdi-raza99/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mehdi-raza99/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mehdi-raza99/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/mehdi-raza99/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/mehdi-raza99/LeetCode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mehdi-raza99/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0658-find-k-closest-elements](https://github.com/mehdi-raza99/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0043-multiply-strings) |
+| [0189-rotate-array](https://github.com/mehdi-raza99/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mehdi-raza99/LeetCode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mehdi-raza99/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
