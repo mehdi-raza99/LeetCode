@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/mehdi-raza99/LeetCode/tree/master/0607-sales-person) |
 | [0627-swap-salary](https://github.com/mehdi-raza99/LeetCode/tree/master/0627-swap-salary) |
 | [1541-top-travellers](https://github.com/mehdi-raza99/LeetCode/tree/master/1541-top-travellers) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/mehdi-raza99/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Hash Table
 |  |
 | ------- |
