@@ -4,23 +4,17 @@ public:
         vector<int> result;
         sort(nums1.begin(),nums1.end());
         sort(nums2.begin(),nums2.end());
-        set<int> resultSet;
         int n1=nums1.size(),n2=nums2.size(),index1=0,index2=0;
         while(index1 < n1 && index2 < n2){
             if(nums1[index1] == nums2[index2]){
-                resultSet.insert(nums1[index1]);
+                if(result.empty() || result.back() != nums1[index1])   result.push_back(nums1[index1]);
                 index1++,index2++;
-                continue;
             }
-            if(nums1[index1] < nums2[index2])
+            else if(nums1[index1] < nums2[index2])
                 index1++;
             else
                 index2++;
         }
-
-        for(const auto& element : resultSet) {
-            result.push_back(element);
-    }
         return result;
     }
 };
