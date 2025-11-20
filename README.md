@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mehdi-raza99/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/mehdi-raza99/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehdi-raza99/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0290-word-pattern](https://github.com/mehdi-raza99/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mehdi-raza99/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mehdi-raza99/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mehdi-raza99/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mehdi-raza99/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/mehdi-raza99/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mehdi-raza99/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
