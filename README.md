@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/mehdi-raza99/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/mehdi-raza99/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/mehdi-raza99/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/mehdi-raza99/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/mehdi-raza99/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0607-sales-person](https://github.com/mehdi-raza99/LeetCode/tree/master/0607-sales-person) |
 | [0627-swap-salary](https://github.com/mehdi-raza99/LeetCode/tree/master/0627-swap-salary) |
