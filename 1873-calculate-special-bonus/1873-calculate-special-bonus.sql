@@ -2,7 +2,7 @@
 
 Select employee_id,
 CASE
-when employee_id%2 != 0 AND LEFT(name,1) != 'M' THEN salary
+when employee_id%2 = 1 AND NOT name LIKE 'M%' THEN salary
 ELSE 0
 END AS 'bonus'
 FROM Employees
