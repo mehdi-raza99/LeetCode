@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/mehdi-raza99/LeetCode/tree/master/0607-sales-person) |
 | [0627-swap-salary](https://github.com/mehdi-raza99/LeetCode/tree/master/0627-swap-salary) |
 | [1280-students-and-examinations](https://github.com/mehdi-raza99/LeetCode/tree/master/1280-students-and-examinations) |
+| [1527-patients-with-a-condition](https://github.com/mehdi-raza99/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1541-top-travellers](https://github.com/mehdi-raza99/LeetCode/tree/master/1541-top-travellers) |
 | [1873-calculate-special-bonus](https://github.com/mehdi-raza99/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/mehdi-raza99/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
