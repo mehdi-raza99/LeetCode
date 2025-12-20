@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-# Add columns of all month
 
 SELECT id,
     SUM(CASE WHEN month = 'Jan' THEN revenue END) AS Jan_Revenue,
