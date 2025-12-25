@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/mehdi-raza99/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehdi-raza99/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/mehdi-raza99/LeetCode/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/mehdi-raza99/LeetCode/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mehdi-raza99/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/mehdi-raza99/LeetCode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/mehdi-raza99/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1046-last-stone-weight](https://github.com/mehdi-raza99/LeetCode/tree/master/1046-last-stone-weight) |
 ## Rolling Hash
 |  |
 | ------- |
