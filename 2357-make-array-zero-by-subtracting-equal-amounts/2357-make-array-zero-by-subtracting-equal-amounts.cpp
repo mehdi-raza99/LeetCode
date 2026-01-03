@@ -1,10 +1,18 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        unordered_set<int> s;
-        for (int x : nums) {
-            if (x > 0) s.insert(x);
+        priority_queue<int, vector<int>, greater<int>> pq;
+        int result=0;
+        for(int i: nums){    
+            if(i>0)
+                pq.push(i);
         }
-        return s.size();
+        while(!pq.empty()){
+            int curr=pq.top();
+            pq.pop();
+            while(!pq.empty() && pq.top() == curr)  pq.pop();
+            result++;
+            }
+        return result;
     }
 };
