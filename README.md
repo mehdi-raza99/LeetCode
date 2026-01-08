@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/mehdi-raza99/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mehdi-raza99/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mehdi-raza99/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/mehdi-raza99/LeetCode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/mehdi-raza99/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mehdi-raza99/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mehdi-raza99/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mehdi-raza99/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mehdi-raza99/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/mehdi-raza99/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehdi-raza99/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mehdi-raza99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mehdi-raza99/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mehdi-raza99/LeetCode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mehdi-raza99/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/mehdi-raza99/LeetCode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/mehdi-raza99/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/mehdi-raza99/LeetCode/tree/master/0883-car-fleet) |
