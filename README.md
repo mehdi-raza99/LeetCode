@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/mehdi-raza99/LeetCode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/mehdi-raza99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/mehdi-raza99/LeetCode/tree/master/0649-dota2-senate) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/mehdi-raza99/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mehdi-raza99/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mehdi-raza99/LeetCode/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/mehdi-raza99/LeetCode/tree/master/1390-four-divisors) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/mehdi-raza99/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mehdi-raza99/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Memoization
 |  |
