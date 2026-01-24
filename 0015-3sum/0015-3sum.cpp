@@ -2,21 +2,27 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        vector<vector<int>> validThreeSum;
-        int n=nums.size();
-        for(int i=0;i<nums.size();i++){
-            if(i>0 && nums[i] == nums[i-1]) continue;
-            int target=-nums[i];
-            set<int> seen;
-            for(int j=i+1;j<nums.size();j++){
-                int need=target-nums[j];
-                if(seen.find(need) != seen.end()){
-                    validThreeSum.push_back({nums[i],need,nums[j]});
-                    while(j+1<n && nums[j] == nums[j+1]) j++;
-                }
-                seen.insert(nums[j]);   
+        int size=nums.size();
+        vector<vector<int>> result;
+        for(int i=0;i<size-2;i++)
+        {
+            if( i > 0 && nums[i] == nums[i-1]) continue;
+            int left=i+1,right=size-1;
+            while(left < right)
+            {
+                int target=-nums[i],total=nums[left]+nums[right];
+                if(total == target){ 
+                    vector<int> individualTriplet = {nums[i],nums[left],nums[right]};
+                    result.push_back(individualTriplet);
+                    while(left < right && nums[left] == nums[left + 1]) left++;
+                    while(left < right && nums[right] == nums[right - 1]) right--;
+                    left++;
+                    right--;
             }
-    }    
-    return validThreeSum;
+                else if(total > target) right--;
+                else left++;
+            }
+        }
+        return result;
     }
 };
