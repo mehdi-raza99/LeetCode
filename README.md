@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/mehdi-raza99/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/mehdi-raza99/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehdi-raza99/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/mehdi-raza99/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mehdi-raza99/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mehdi-raza99/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mehdi-raza99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/mehdi-raza99/LeetCode/tree/master/0649-dota2-senate) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/mehdi-raza99/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehdi-raza99/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mehdi-raza99/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/mehdi-raza99/LeetCode/tree/master/0883-car-fleet) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mehdi-raza99/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mehdi-raza99/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehdi-raza99/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mehdi-raza99/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mehdi-raza99/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mehdi-raza99/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mehdi-raza99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/mehdi-raza99/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehdi-raza99/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1873-longest-nice-substring](https://github.com/mehdi-raza99/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/mehdi-raza99/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mehdi-raza99/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/mehdi-raza99/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/mehdi-raza99/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehdi-raza99/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
@@ -313,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mehdi-raza99/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/mehdi-raza99/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mehdi-raza99/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mehdi-raza99/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Recursion
 |  |
 | ------- |
