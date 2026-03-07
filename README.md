@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/mehdi-raza99/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/mehdi-raza99/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehdi-raza99/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/mehdi-raza99/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/mehdi-raza99/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/mehdi-raza99/LeetCode/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mehdi-raza99/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mehdi-raza99/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehdi-raza99/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/mehdi-raza99/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mehdi-raza99/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehdi-raza99/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mehdi-raza99/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mehdi-raza99/LeetCode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/mehdi-raza99/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mehdi-raza99/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/mehdi-raza99/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 ## Binary Search
 |  |
 | ------- |
