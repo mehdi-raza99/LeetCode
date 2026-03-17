@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/mehdi-raza99/LeetCode/tree/master/1729-find-followers-count) |
 | [1873-calculate-special-bonus](https://github.com/mehdi-raza99/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/mehdi-raza99/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1907-count-salary-categories](https://github.com/mehdi-raza99/LeetCode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/mehdi-raza99/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Hash Table
 |  |
